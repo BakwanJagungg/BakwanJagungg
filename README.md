@@ -189,10 +189,6 @@
   <a href="https://github.com/BakwanJagungg/Kode-bahasa-C-untuk-kalkulator-investasi-sederhana">
     <img src="https://img.shields.io/badge/Project-Kalkulator_C-F59E0B?style=for-the-badge&logo=c&logoColor=black" alt="C Project" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:davasidiq3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dava" />
-  </a>
 
   <br><br>
   <sub>*Didedikasikan untuk rekayasa perangkat lunak berkinerja tinggi, otomasi sistem, dan eksperimen fisik IoT.*</sub>
