@@ -148,11 +148,11 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=BakwanJagungg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Statistik GitHub Dava" width="48%" />
+  <!-- GitHub Stats Card (Zero-Downtime Hosted Asset) -->
+  <img src="https://raw.githubusercontent.com/BakwanJagungg/BakwanJagungg/main/assets/stats.svg" alt="Statistik GitHub Dava" width="48%" />
 
-  <!-- GitHub Top Languages Card -->
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=BakwanJagungg&layout=compact&theme=radical&hide_border=true" alt="Bahasa Pemrograman Teratas" width="48%" />
+  <!-- GitHub Top Languages Card (Zero-Downtime Hosted Asset) -->
+  <img src="https://raw.githubusercontent.com/BakwanJagungg/BakwanJagungg/main/assets/top-langs.svg" alt="Bahasa Pemrograman Teratas" width="48%" />
 
   <br><br>
 

@@ -26,6 +26,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
+      - name: Fetch Profile Stats Cards
+        run: |
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BakwanJagungg&theme=radical" -o dist/stats.svg
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BakwanJagungg&theme=radical" -o dist/top-langs.svg
+
       - name: Push Snake SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
