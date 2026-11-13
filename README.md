@@ -48,9 +48,9 @@
     <td width="50%" valign="top">
       <h3 align="center">⚡ <a href="https://github.com/BakwanJagungg/Kode-bahasa-C-untuk-kalkulator-investasi-sederhana">Kalkulator Investasi C</a></h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/Status-Open_Source-059669?style=flat-square&logo=github&logoColor=white" alt="Open Source">
         <img src="https://img.shields.io/badge/Language-Pure_C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
         <img src="https://img.shields.io/badge/Domain-Financial_Engines-F59E0B?style=flat-square&logo=speedtest&logoColor=white" alt="C Project">
-        <img src="https://img.shields.io/badge/Binary-Zero_Dependency-059669?style=flat-square&logo=windows&logoColor=white" alt="Zero Dep">
       </p>
       <p><b>Kalkulator Finansial Presisi</b> — Implementasi algoritma komputasi keuangan modular dan terstruktur dalam bahasa C murni.</p>
       <ul>
@@ -65,6 +65,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📟 Prototyping IoT & Arduino</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/Status-Hardware_R%26D-00979D?style=flat-square&logo=circuitverse&logoColor=white" alt="Hardware R&D">
         <img src="https://img.shields.io/badge/Hardware-Arduino_Uno_%7C_Nano-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
         <img src="https://img.shields.io/badge/Firmware-Embedded_C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Embedded C">
       </p>
@@ -80,6 +81,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🖥️ Desktop GUI & System Automation</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/Status-System_Architecture-0078D4?style=flat-square&logo=windows&logoColor=white" alt="System Architecture">
         <img src="https://img.shields.io/badge/GUI-CustomTkinter-059669?style=flat-square&logo=gnome&logoColor=white" alt="GUI">
         <img src="https://img.shields.io/badge/System-Win32_Hooks-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Win32">
       </p>
@@ -93,6 +95,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🗄️ Local AI & High-Performance Data</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/Status-Local--First_Labs-7C3AED?style=flat-square&logo=databricks&logoColor=white" alt="Local-First Labs">
         <img src="https://img.shields.io/badge/Database-SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
         <img src="https://img.shields.io/badge/AI-Local_Ollama-black?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
       </p>
@@ -150,11 +153,11 @@
 
   <!-- GitHub Stats Card (Zero-Downtime Hosted Asset) -->
   <img src="https://raw.githubusercontent.com/BakwanJagungg/BakwanJagungg/main/assets/stats.svg" alt="Statistik GitHub Dava" width="48%" />
-
+  &nbsp;
   <!-- GitHub Top Languages Card (Zero-Downtime Hosted Asset) -->
   <img src="https://raw.githubusercontent.com/BakwanJagungg/BakwanJagungg/main/assets/top-langs.svg" alt="Bahasa Pemrograman Teratas" width="48%" />
 
-  <br><br>
+  <br>
 
   <!-- GitHub Streak Card -->
   <img src="https://streak-stats.demolab.com?user=BakwanJagungg&theme=radical&hide_border=true" alt="GitHub Streak Dava" width="97%" />
@@ -185,6 +188,10 @@
   &nbsp;&nbsp;
   <a href="https://github.com/BakwanJagungg/Kode-bahasa-C-untuk-kalkulator-investasi-sederhana">
     <img src="https://img.shields.io/badge/Project-Kalkulator_C-F59E0B?style=for-the-badge&logo=c&logoColor=black" alt="C Project" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:davasidiq3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hubungi_Saya-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dava" />
   </a>
 
   <br><br>
