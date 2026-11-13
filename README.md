@@ -148,11 +148,11 @@
 
 <div align="center">
 
-  <!-- GitHub Fast Mirror Stats Card (100% Reliable Loading) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=BakwanJagungg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Statistik GitHub Dava" width="48%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=BakwanJagungg&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Statistik GitHub Dava" width="48%" />
 
-  <!-- GitHub Top Languages Fast Mirror Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=BakwanJagungg&layout=compact&theme=radical&hide_border=true" alt="Bahasa Pemrograman Teratas" width="48%" />
+  <!-- GitHub Top Languages Card -->
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=BakwanJagungg&layout=compact&theme=radical&hide_border=true" alt="Bahasa Pemrograman Teratas" width="48%" />
 
   <br><br>
 
